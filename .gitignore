@@ -1,0 +1,13 @@
+# Ignore test and train files if needed
+/AmazonBooks_m1/train.txt
+/AmazonBooks_m1/test.txt
+/AmazonCDs_m1/train.txt
+/AmazonCDs_m1/test.txt
+/AmazonElectronics_m1/train_data.json
+/AmazonElectronics_m1/test_data.json
+/Gowalla_m1/train.txt
+/Gowalla_m1/test.txt
+/Movielens1M_m1/train_data.json
+/Movielens1M_m1/test_data.json
+/Yelp18_m1/train.txt
+/Yelp18_m1/test.txt
